@@ -1,7 +1,0 @@
-name: workshops
-channels:
-  - conda-forge
-dependencies:
-  - geopandas=1.0.1
-  - rasterio=1.4.3
-  - gdal=3.8.4
